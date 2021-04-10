@@ -1,1 +1,1 @@
-# Latihan-python
+Repo untuk belajar pemrograman python
